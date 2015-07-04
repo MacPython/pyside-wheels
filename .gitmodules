@@ -1,0 +1,6 @@
+[submodule "terryfy"]
+	path = terryfy
+	url = https://github.com/MacPython/terryfy.git
+[submodule "pyside-setup"]
+	path = pyside-setup
+	url = https://github.com/PySide/pyside-setup.git

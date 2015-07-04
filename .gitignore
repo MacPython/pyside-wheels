@@ -1,0 +1,8 @@
+*.pyc
+*.swp
+*~
+build
+working
+downloads
+venv
+tmp_for_test
